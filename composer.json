@@ -1,7 +1,7 @@
 {
-    "name": "matthiasnoback/microsoft-translator-bundle",
+    "name": "maxvanceffer/microsoft-translator-bundle",
     "type": "symfony-bundle",
-    "description": "Bundle for using the Microsoft Translator V2 API",
+    "description": "Bundle for using the Microsoft Translator V2 API (Fork to be able checkout with symfony 2.4)",
     "keywords": ["translate","Microsoft Translator", "Bing"],
     "homepage": "http://github.com/matthiasnoback/MicrosoftTranslatorBundle",
     "license": "MIT",
